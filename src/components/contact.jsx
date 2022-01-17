@@ -9,7 +9,7 @@ class Contact extends React.Component {
         style={{ backgroundImage: "url(" + imageOverlay + ")" }}
       >
         <div className="overlay-mf"></div>
-        <div className="container">
+        <div id="contact" className="container">
           <div className="row">
             <div className="col-sm-12">
               <div className="contact-mf">
