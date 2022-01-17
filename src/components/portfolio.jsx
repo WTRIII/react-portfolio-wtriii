@@ -1,7 +1,6 @@
 import React from "react";
 
-//import stock
-import stock from "../img/image1.jpg";
+//import images
 import jester from "../img/jester.png";
 import pipedreams from "../img/pipe-dreams.PNG";
 import fedBuilder from "../img/fed-builder.PNG";
