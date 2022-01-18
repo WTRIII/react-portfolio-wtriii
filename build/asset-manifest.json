@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-wtriii/static/css/main.f23dec09.chunk.css",
+    "main.js": "/react-portfolio-wtriii/static/js/main.c77bf1c8.chunk.js",
+    "main.js.map": "/react-portfolio-wtriii/static/js/main.c77bf1c8.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-wtriii/static/js/runtime-main.467d5112.js",
+    "runtime-main.js.map": "/react-portfolio-wtriii/static/js/runtime-main.467d5112.js.map",
+    "static/css/2.4c157a48.chunk.css": "/react-portfolio-wtriii/static/css/2.4c157a48.chunk.css",
+    "static/js/2.c9597941.chunk.js": "/react-portfolio-wtriii/static/js/2.c9597941.chunk.js",
+    "static/js/2.c9597941.chunk.js.map": "/react-portfolio-wtriii/static/js/2.c9597941.chunk.js.map",
+    "index.html": "/react-portfolio-wtriii/index.html",
+    "precache-manifest.c92c9d3639f6bf1f0db6d810da4cec15.js": "/react-portfolio-wtriii/precache-manifest.c92c9d3639f6bf1f0db6d810da4cec15.js",
+    "service-worker.js": "/react-portfolio-wtriii/service-worker.js",
+    "static/css/2.4c157a48.chunk.css.map": "/react-portfolio-wtriii/static/css/2.4c157a48.chunk.css.map",
+    "static/css/main.f23dec09.chunk.css.map": "/react-portfolio-wtriii/static/css/main.f23dec09.chunk.css.map",
+    "static/js/2.c9597941.chunk.js.LICENSE.txt": "/react-portfolio-wtriii/static/js/2.c9597941.chunk.js.LICENSE.txt",
+    "static/media/Main-page.PNG": "/react-portfolio-wtriii/static/media/Main-page.13a78901.PNG",
+    "static/media/earth.jpg": "/react-portfolio-wtriii/static/media/earth.67af05e1.jpg",
+    "static/media/fed-builder.PNG": "/react-portfolio-wtriii/static/media/fed-builder.ab27441f.PNG",
+    "static/media/font-awesome.css": "/react-portfolio-wtriii/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ionicons.css": "/react-portfolio-wtriii/static/media/ionicons.621bd386.svg",
+    "static/media/jester.png": "/react-portfolio-wtriii/static/media/jester.f211e638.png",
+    "static/media/male.png": "/react-portfolio-wtriii/static/media/male.a82ab1cd.png",
+    "static/media/male1.png": "/react-portfolio-wtriii/static/media/male1.3ec3891b.png",
+    "static/media/movie-comparison.PNG": "/react-portfolio-wtriii/static/media/movie-comparison.de8222d4.PNG",
+    "static/media/pipe-dreams.PNG": "/react-portfolio-wtriii/static/media/pipe-dreams.3fd9375a.PNG",
+    "static/media/regex-tutorial.PNG": "/react-portfolio-wtriii/static/media/regex-tutorial.ee0aa33f.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.467d5112.js",
+    "static/css/2.4c157a48.chunk.css",
+    "static/js/2.c9597941.chunk.js",
+    "static/css/main.f23dec09.chunk.css",
+    "static/js/main.c77bf1c8.chunk.js"
+  ]
+}
