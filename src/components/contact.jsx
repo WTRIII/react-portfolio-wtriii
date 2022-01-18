@@ -33,17 +33,17 @@ class Contact extends React.Component {
                       </div>
                       <div className="socials">
                         <ul>
-                          <li>
+                          {/* <li>
                             <a
                               href=""
                               target="_blank"
                               rel="noopener noreferrer"
-                            >
-                              <span className="ico-circle">
+                            > */}
+                              {/* <span className="ico-circle">
                                 <i className="ion-social-codepen"></i>
                               </span>
                             </a>
-                          </li>
+                          </li> */}
                           <li>
                             <a
                               href="https://github.com/WTRIII"
