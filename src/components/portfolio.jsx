@@ -27,7 +27,7 @@ class Portfolio extends React.Component {
           <div className="row">
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://jesterapp.herokuapp.com/" data-lightbox="gallery-vmarine">
+                <a href="https://jesterapp.herokuapp.com/">
                   <div className="work-img">
                     <img src={jester} alt="" className="img-fluid" />
                   </div>
@@ -54,7 +54,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://pipe-dreams.herokuapp.com/" data-lightbox="gallery-aguadeluz">
+                <a href="https://pipe-dreams.herokuapp.com/">
                   <div className="work-img">
                     <img src={pipedreams} alt="" className="img-fluid" />
                   </div>
@@ -81,7 +81,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://github.com/WTRIII/Homework-12-Federation-Team-Builder-WTRIII" data-lightbox="gallery-todo">
+                <a href="https://github.com/WTRIII/Homework-12-Federation-Team-Builder-WTRIII">
                   <div className="work-img">
                     <img src={fedBuilder} alt="" className="img-fluid" />
                   </div>
@@ -109,7 +109,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://wtriii.github.io/Project-1-Movie-Comparison-Site/" data-lightbox="gallery-medlingos">
+                <a href="https://wtriii.github.io/Project-1-Movie-Comparison-Site/" >
                   <div className="work-img">
                     <img src={movies} alt="" className="img-fluid" />
                   </div>
@@ -135,7 +135,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://gist.github.com/WTRIII/3a992ef519ac5fe01dac9071a6b9e785" data-lightbox="gallery-smth">
+                <a href="https://gist.github.com/WTRIII/3a992ef519ac5fe01dac9071a6b9e785">
                   <div className="work-img">
                     <img src={regex} alt="" className="img-fluid" />
                   </div>
@@ -160,7 +160,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://nosql-workout-tracker-wtriii.herokuapp.com/" data-lightbox="gallery-mf">
+                <a href="https://nosql-workout-tracker-wtriii.herokuapp.com/">
                   <div className="work-img">
                     <img src={fitness} alt="" className="img-fluid" />
                   </div>
