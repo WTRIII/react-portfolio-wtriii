@@ -29,7 +29,7 @@ class Portfolio extends React.Component {
               <div className="work-box">
                 <a href="https://jesterapp.herokuapp.com/">
                   <div className="work-img">
-                    <img src={jester} alt="" className="img-fluid" />
+                    <img src={jester} alt="Jester App" className="img-fluid" />
                   </div>
                 </a>
                   <div className="work-content">
@@ -38,7 +38,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Jester</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Materialize Bcrypt MERN
+                            HTML CSS Materialize Bcrypt GraphQL
 
                           </span>
                         </div>
@@ -60,7 +60,7 @@ class Portfolio extends React.Component {
               <div className="work-box">
                 <a href="https://pipe-dreams.herokuapp.com/">
                   <div className="work-img">
-                    <img src={pipedreams} alt="" className="img-fluid" />
+                    <img src={pipedreams} alt="Pipe Dreams App" className="img-fluid" />
                   </div>
                 </a>
                   <div className="work-content">
@@ -69,7 +69,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Pipe Dreams</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap Bcrypt
+                            HTML CSS Bootstrap Bcrypt
                           </span>
                         </div>
                       </div>
@@ -91,7 +91,7 @@ class Portfolio extends React.Component {
               <div className="work-box">
                 <a href="https://github.com/WTRIII/Homework-12-Federation-Team-Builder-WTRIII">
                   <div className="work-img">
-                    <img src={fedBuilder} alt="" className="img-fluid" />
+                    <img src={fedBuilder} alt="Federation Builder" className="img-fluid" />
                   </div>
                 </a>
                   <div className="work-content">
@@ -120,9 +120,9 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://wtriii.github.io/Project-1-Movie-Comparison-Site/" >
+                <a href="https://wtriii.github.io/Movie-Comparison-Site/" >
                   <div className="work-img">
-                    <img src={movies} alt="" className="img-fluid" />
+                    <img src={movies} alt="movie comparison site" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
@@ -130,7 +130,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Movie Comparison</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 APIs
+                            HTML CSS APIs
                           </span>
                         </div>
                       </div>
@@ -151,7 +151,7 @@ class Portfolio extends React.Component {
               <div className="work-box">
                 <a href="https://gist.github.com/WTRIII/3a992ef519ac5fe01dac9071a6b9e785">
                   <div className="work-img">
-                    <img src={regex} alt="" className="img-fluid" />
+                    <img src={regex} alt="regex tutorial" className="img-fluid" />
                   </div>
                 </a>
                   <div className="work-content">
@@ -159,7 +159,7 @@ class Portfolio extends React.Component {
                       <div className="col-sm-8">
                         <h2 className="w-title">Regex Tutorial</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">Regular Expressions</span>
+                          <span className="w-ctegory">A Regular Expressions gist.</span>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -179,7 +179,7 @@ class Portfolio extends React.Component {
               <div className="work-box">
                 <a href="https://nosql-workout-tracker-wtriii.herokuapp.com/">
                   <div className="work-img">
-                    <img src={fitness} alt="" className="img-fluid" />
+                    <img src={fitness} alt="noSQL workout tracker" className="img-fluid" />
                   </div>
                 </a>
                   <div className="work-content">
@@ -188,7 +188,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Fitness Tracker</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap NoSQL
+                            HTML CSS Bootstrap NoSQL
                           </span>
                         </div>
                       </div>
@@ -197,7 +197,8 @@ class Portfolio extends React.Component {
                         <a href="https://github.com/WTRIII/NoSQL-Workout-Tracker">
                           <i className="ion-social-github">
                           </i>
-                          </a>                         </div>
+                          </a>                         
+                          </div>
                       </div>
                     </div>
                   </div>
