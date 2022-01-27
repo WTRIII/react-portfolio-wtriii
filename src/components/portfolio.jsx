@@ -31,6 +31,7 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={jester} alt="" className="img-fluid" />
                   </div>
+                </a>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
@@ -38,17 +39,20 @@ class Portfolio extends React.Component {
                         <div className="w-more">
                           <span className="w-ctegory">
                             HTML5 CSS3 Materialize Bcrypt MERN
+
                           </span>
                         </div>
                       </div>
                       <div className="col-sm-4">
                         <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
+                        <a href="https://github.com/WTRIII/jester">
+                          <i className="ion-social-github">
+                          </i>
+                          </a>
                         </div>
                       </div>
                     </div>
                   </div>
-                </a>
 
               </div>
             </div>
@@ -58,6 +62,7 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={pipedreams} alt="" className="img-fluid" />
                   </div>
+                </a>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
@@ -65,17 +70,20 @@ class Portfolio extends React.Component {
                         <div className="w-more">
                           <span className="w-ctegory">
                             HTML5 CSS3 Bootstrap Bcrypt
-                          </span>{" "}
+                          </span>
                         </div>
                       </div>
                       <div className="col-sm-4">
                         <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
+                            <a href="https://github.com/cole-cochran/Pipe-Dreams">
+                          <i className="ion-social-github">
+                          </i>
+                          </a>
+
                         </div>
                       </div>
                     </div>
                   </div>
-                </a>
 
               </div>
             </div>
@@ -85,25 +93,28 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={fedBuilder} alt="" className="img-fluid" />
                   </div>
+                </a>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
                         <h2 className="w-title">Starship Troopers Federation Builder</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                          Node CLI 
+                            Node CLI
                           </span>
                           {/*} / <span className="w-date">18 Sep. 2018</span>*/}
                         </div>
                       </div>
                       <div className="col-sm-4">
                         <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                        <a href="https://github.com/WTRIII/Federation-Team-Builder-WTRIII">
+                          <i className="ion-social-github">
+                          </i>
+                          </a>                        
+                          </div>
                       </div>
                     </div>
                   </div>
-                </a>
 
               </div>
             </div>
@@ -125,7 +136,10 @@ class Portfolio extends React.Component {
                       </div>
                       <div className="col-sm-4">
                         <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
+                        <a href="https://github.com/WTRIII/Movie-Comparison-Site">
+                          <i className="ion-social-github">
+                          </i>
+                          </a>                        
                         </div>
                       </div>
                     </div>
@@ -139,6 +153,7 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={regex} alt="" className="img-fluid" />
                   </div>
+                </a>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
@@ -149,12 +164,14 @@ class Portfolio extends React.Component {
                       </div>
                       <div className="col-sm-4">
                         <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
+                        <a href="https://gist.github.com/WTRIII/3a992ef519ac5fe01dac9071a6b9e785">
+                          <i className="ion-social-github">
+                          </i>
+                          </a>                        
                         </div>
                       </div>
                     </div>
                   </div>
-                </a>
 
               </div>
             </div>
@@ -164,6 +181,7 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={fitness} alt="" className="img-fluid" />
                   </div>
+                </a>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
@@ -176,12 +194,13 @@ class Portfolio extends React.Component {
                       </div>
                       <div className="col-sm-4">
                         <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                        <a href="https://github.com/WTRIII/NoSQL-Workout-Tracker">
+                          <i className="ion-social-github">
+                          </i>
+                          </a>                         </div>
                       </div>
                     </div>
                   </div>
-                </a>
               </div>
             </div>
           </div>
